@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# >>> By H4rby <<<
-
 clear
 echo -e ""
 echo -e "\e[00;34m >>> Azul Oscuro <<< \e[00m"
